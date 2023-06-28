@@ -6,3 +6,6 @@ The Last Engineer is a tower defense game where you're a lost engineering on a p
 
 ## How to run the game ?
 
+Prerequisites : **libSDL2**
+
+You can download it on Gnu/Linux with `sudo apt-get install libsdl2-dev`.
