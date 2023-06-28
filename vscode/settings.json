@@ -1,0 +1,28 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "time.h": "c",
+        "smartlist.h": "c",
+        "dirent.h": "c",
+        "stdio.h": "c",
+        "animationmanager.h": "c",
+        "projectilemanager.h": "c",
+        "rendereraddons.h": "c",
+        "turrets.h": "c",
+        "texturemanager.h": "c",
+        "mapdatamanagement.h": "c",
+        "robots.h": "c",
+        "game.h": "c",
+        "selection.h": "c",
+        "ui_mainmenu.h": "c",
+        "camera.h": "c",
+        "mapmanager.h": "c",
+        "ui_loading.h": "c",
+        "ui_settingsmenu.h": "c",
+        "stdlib.h": "c",
+        "wavemanager.h": "c",
+        "CORE.H": "cpp",
+        "keybindings.h": "c",
+        "renderselector.h": "c"
+    }
+}
