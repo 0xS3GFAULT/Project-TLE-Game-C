@@ -1,0 +1,58 @@
+lang_id;fr_CA
+lang_name;QUEBECOIS
+menu_home_play;S'AMUSER
+menu_home_settings;PARAMETRES
+menu_home_quit;PARTIR
+menu_settings_general;CAPITAINE
+menu_settings_display;AFFICHAGE
+menu_settings_back;ARRIERE
+menu_settings_audio;ECOUTE
+menu_settings_commands;COMMANDES
+menu_settings_accessibility;ACCESSIBILITE
+menu_home_endless;SANS BOUT
+menu_home_sandbox;BOÎTE À SABLE
+menu_back;ARRIERE
+options_menu_video_1920_1080;1920 x 1080
+options_menu_video_1536_864;1536 x 864
+options_menu_video_1366_768;1366 x 768
+options_menu_video_1280_720;1280 x 720
+options_menu_video_resolution;SOLUTION
+options_menu_video_fullscreen;ÉCRAN PLEIN
+options_menu_sound_master;MAÎTRE
+options_menu_sound_music;MÉLODIE
+options_menu_sound_effects;INCIDENCES
+options_menu_sound_dialogues;BAVARDAGES
+options_menu_accessibility_language;LANGUE
+options_menu_accessibility_daltonism;DALTONISME
+options_menu_accessibility_screen_shake;TREMBLEMENTS
+options_menu_accessibility_inverse_x;INVERSER L'AXE X
+options_menu_accessibility_inverse_y;INVERSER L'AXE Y
+options_menu_accessibility_text_size;TAILLE DU TEXTE
+options_menu_accessibility_daltonism_deuteranopia;DEUTERANOPIE
+options_menu_accessibility_daltonism_tritanopia;TRITANOPIE
+options_menu_accessibility_daltonism_protanopia;PROTANOPIE
+options_menu_accessibility_daltonism_none;AUCUN
+options_menu_keybinds_up;DESSUS
+options_menu_keybinds_down;DESSOUS
+options_menu_keybinds_right;TRIBORD
+options_menu_keybinds_left;BABORD
+options_menu_keybinds_zoom_in;PLUS PROCHE
+options_menu_keybinds_zoom_out;PLUS LOIN
+options_menu_keybinds_turret_1;TOUR 1
+options_menu_keybinds_turret_2;TOUR 2
+options_menu_keybinds_turret_3;TOUR 3
+options_menu_keybinds_pause;ARRET
+options_menu_keybinds_sell;BROCANTER
+options_menu_keybinds_upgrade;AUGMENTER
+hud_next_wave;NEXT WAVE
+hud_wave_info;VAGUE
+pause_continue;REPRENDRE
+pause_settings;OPTIONS
+pause_quit;QUITTER
+turret_laser;Laser
+turret_artil;Artillerie
+turret_plasma;Plasma
+turret_radius;Portee
+turret_fire_rate;Tir
+turret_damage;Dommage
+GAME_OVER; GAME OVER

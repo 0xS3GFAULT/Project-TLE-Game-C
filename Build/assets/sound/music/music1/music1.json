@@ -1,0 +1,23 @@
+{
+    "tempo": 4000,
+    "music": [
+        {
+            "name": "Synth Lead.wav",
+            "weight": 0.0
+        },
+        {
+            "name": "Guitare Pluck.wav",
+            "weight": 0.0
+        },
+        {
+            "name": "Humming.wav",
+            "weight": 0.5
+        }
+    ],
+    "sfx": [
+        {
+            "name": "Synth Pluck.wav",
+            "Id": 0
+        }
+    ]
+}

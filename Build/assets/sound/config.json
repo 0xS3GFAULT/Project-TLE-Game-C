@@ -1,0 +1,11 @@
+{
+    "effects": "assets/sound/sfx",
+    "dialogs": "assets/sound/dialogs",
+    "ambients": "assets/sound/ambients",
+    "musics": [
+        {
+            "name": "music1",
+            "path": "assets/sound/music/music1"
+        }
+    ]
+} 

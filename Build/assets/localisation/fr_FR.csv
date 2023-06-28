@@ -1,0 +1,58 @@
+lang_id;fr_FR
+lang_name;FRANCAIS
+menu_home_play;JOUER
+menu_home_settings;PARAMETRES
+menu_home_quit;QUITTER
+menu_settings_general;GENERAL
+menu_settings_display;AFFICHAGE
+menu_settings_back;RETOUR
+menu_settings_audio;AUDIO
+menu_settings_commands;COMMANDES
+menu_settings_accessibility;ACCESSIBILITE
+menu_home_endless;LIBRE
+menu_home_sandbox;BAC À SABLE
+menu_back;RETOUR
+options_menu_video_1920_1080;1920 x 1080
+options_menu_video_1536_864;1536 x 864
+options_menu_video_1366_768;1366 x 768
+options_menu_video_1280_720;1280 x 720
+options_menu_video_resolution;RESOLUTION
+options_menu_video_fullscreen;PLEIN ECRAN
+options_menu_sound_master;GENERAL
+options_menu_sound_music;MUSIQUE
+options_menu_sound_effects;EFFETS
+options_menu_sound_dialogues;DIALOGUES
+options_menu_accessibility_language;LANGUE
+options_menu_accessibility_daltonism;DALTONISME
+options_menu_accessibility_screen_shake;TREMBLEMENTS
+options_menu_accessibility_inverse_x;INVERSER L'AXE X
+options_menu_accessibility_inverse_y;INVERSER L'AXE Y
+options_menu_accessibility_text_size;TAILLE DU TEXTE
+options_menu_accessibility_daltonism_deuteranopia;DEUTERANOPIE
+options_menu_accessibility_daltonism_tritanopia;TRITANOPIE
+options_menu_accessibility_daltonism_protanopia;PROTANOPIE
+options_menu_accessibility_daltonism_none;AUCUN
+options_menu_keybinds_up;HAUT
+options_menu_keybinds_down;BAS
+options_menu_keybinds_right;DROITE
+options_menu_keybinds_left;GAUCHE
+options_menu_keybinds_zoom_in;ZOOMER
+options_menu_keybinds_zoom_out;DEZOOMER
+options_menu_keybinds_turret_1;TOURELLE 1
+options_menu_keybinds_turret_2;TOURELLE 2
+options_menu_keybinds_turret_3;TOURELLE 3
+options_menu_keybinds_pause;PAUSE
+options_menu_keybinds_sell;VENDRE
+options_menu_keybinds_upgrade;AMELIORER
+hud_next_wave;Nouv. Vague
+hud_wave_info;VAGUE
+pause_continue;REPRENDRE
+pause_settings;OPTIONS
+pause_quit;QUITTER
+turret_laser;Laser
+turret_artil;Artillerie
+turret_plasma;Plasma
+turret_radius;Portee
+turret_fire_rate;Cad. de tir
+turret_damage;Degats
+GAME_OVER; GAME OVER

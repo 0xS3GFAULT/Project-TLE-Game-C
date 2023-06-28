@@ -1,0 +1,59 @@
+lang_id;en_US
+lang_name;ENGLISH
+menu_home_play;PLAY
+menu_home_settings;SETTINGS
+menu_home_quit;QUIT
+menu_settings_general;GENERAL
+menu_settings_display;DISPLAY
+menu_settings_back;BACK
+menu_settings_audio;AUDIO
+menu_settings_commands;COMMANDS
+menu_settings_accessibility;ACCESSIBILITY
+menu_home_endless;ENDLESS
+menu_home_sandbox;SANDBOX
+menu_back;BACK
+options_menu_video_resolution;SCREEN SIZE
+options_menu_video_fullscreen;FULLSCREEN
+options_menu_video_1920_1080;1920 x 1080
+options_menu_video_1536_864;1536 x 864
+options_menu_video_1366_768;1366 x 768
+options_menu_video_1280_720;1280 x 720
+options_menu_sound_master;MASTER
+options_menu_sound_music;MUSIC
+options_menu_sound_effects;EFFECTS
+options_menu_sound_dialogues;DIALOGUES
+options_menu_accessibility_language;LANGUAGE
+options_menu_accessibility_daltonism;DALTONISM
+options_menu_accessibility_screen_shake;SCREEN SHAKE
+options_menu_accessibility_inverse_x;INVERSE X AXIS
+options_menu_accessibility_inverse_y;INVERSE Y AXIS
+options_menu_accessibility_text_size;TEXT SIZE
+options_menu_accessibility_daltonism_deuteranopia;DEUTERANOPIA
+options_menu_accessibility_daltonism_tritanopia;TRITANOPIA
+options_menu_accessibility_daltonism_protanopia;PROTANOPIA
+options_menu_accessibility_daltonism_none;NONE
+options_menu_keybinds_up;UP
+options_menu_keybinds_down;DOWN
+options_menu_keybinds_right;RIGHT
+options_menu_keybinds_left;LEFT
+options_menu_keybinds_zoom_in;ZOOM IN
+options_menu_keybinds_zoom_out;ZOOM OUT
+options_menu_keybinds_turret_1;TURRET 1
+options_menu_keybinds_turret_2;TURRET 2
+options_menu_keybinds_turret_3;TURRET 3
+options_menu_keybinds_pause;PAUSE
+options_menu_keybinds_sell;SELL
+options_menu_keybinds_upgrade;UPGRADE
+pause_continue;CONTINUE
+pause_settings;SETTINGS
+pause_quit;QUIT
+hud_next_wave;NEXT WAVE
+hud_wave_info;WAVE
+turret_laser;Laser
+turret_artil;Artillery
+turret_plasma;Plasma
+turret_radius;Radius
+turret_fire_rate;Fire Rate
+turret_damage;Damage
+MENU_BACK;BACK
+GAME_OVER; GAME OVER
